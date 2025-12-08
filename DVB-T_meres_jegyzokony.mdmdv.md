@@ -42,36 +42,31 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 | Noise Margin         | 12.0 |
 | Hiba nélkül vett adás időtartama | 200 sec |   
 
-
-<details>   
-  <summary> A Miskolci TV adótorony által sugárzott frekvenciák </summary>
+  A Miskolci TV adótorony által sugárzott frekvenciák 
   <img src="https://sandorpeteer.github.io/tavkozles/img/miskolciTV.png" alt="Miskolci TV adások" />
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatornán mért spektrum </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0001.bmp" alt="CH45" />
-</details>
+    A CH45 -ös csatornán mért spektrum 
+  ![its_snapshot_0023.bmp](https://github.com/user-attachments/files/24030817/its_snapshot_0023.bmp)
 
-<details>   
-  <summary> A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0002.bmp" alt="NOISE MARGIN" />
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatorna konstellációs diagramja </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0004.bmp" alt="CONSTELLATION" />
-</details>
+ A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák
+ ![its_snapshot_0025.bmp](https://github.com/user-attachments/files/24030871/its_snapshot_0025.bmp).
 
-<details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD jelszint és TV adás </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0003.bmp" alt="DUNATV" />
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD műsora </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0005.bmp" alt="DUNATV" />
-</details>
+A CH45 -ös csatorna konstellációs diagramja 
+ 
+![its_snapshot_0026.bmp](https://github.com/user-attachments/files/24030877/its_snapshot_0026.bmp)
+
+  
+A CH45 -ös csatornán a DUNATV HD jelszint és TV adás 
+ 
+![its_snapshot_0024.bmp](https://github.com/user-attachments/files/24030880/its_snapshot_0024.bmp)
+
+  
+ A CH45 -ös csatornán a DUNATV HD műsora
+
+![its_snapshot_0022.bmp](https://github.com/user-attachments/files/24030883/its_snapshot_0022.bmp)
+
 
 <br>
 
